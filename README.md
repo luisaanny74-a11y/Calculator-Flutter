@@ -22,13 +22,11 @@ lib/
 ```
 ---
 
-Como Executar o Projeto
-Pré-requisitos
-Flutter SDK instalado.
+##Como Executar o Projeto
 
-Emulador Android/iOS ou dispositivo físico conectado.
+**Pré-requisitos:** Flutter SDK instalado.
 
-Passo a Passo
+###Passo a Passo
 
 Clone o repositório: git clone  https://github.com/luisaanny74-a11y/Calculator-Flutter.git
 
