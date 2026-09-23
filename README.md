@@ -1,10 +1,10 @@
-# 🧮 Calculadora Flutter (MVVM)
+# Calculadora Flutter (MVVM)
 
 Aplicativo de calculadora mobile desenvolvido em **Flutter** utilizando o padrão arquitetural **MVVM (Model-View-ViewModel)** para garantir a separação de responsabilidades, testabilidade e manutenibilidade do código.
 
 ---
 
-## 🛠️ Tecnologias e Arquitetura
+## Tecnologias e Arquitetura
 
 - **Framework:** Flutter
 - **Linguagem:** Dart
@@ -41,6 +41,4 @@ Funcionalidades
 Operações matemáticas básicas (Adição, Subtração, Multiplicação, Divisão)
 
 - Limpeza de tela e manipulação de decimais;
-- Interface responsiva para dispositivos móveis;
-  
-  
+- Interface responsiva para dispositivos móveis.
