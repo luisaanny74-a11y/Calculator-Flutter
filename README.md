@@ -22,11 +22,11 @@ lib/
 ```
 ---
 
-##Como Executar o Projeto
+### Como Executar o Projeto
 
 **Pré-requisitos:** Flutter SDK instalado.
 
-###Passo a Passo
+### Passo a Passo
 
 Clone o repositório: git clone  https://github.com/luisaanny74-a11y/Calculator-Flutter.git
 
