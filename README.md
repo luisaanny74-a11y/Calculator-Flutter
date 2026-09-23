@@ -31,8 +31,10 @@ Emulador Android/iOS ou dispositivo físico conectado.
 Passo a Passo
 
 Clone o repositório: git clone  https://github.com/luisaanny74-a11y/Calculator-Flutter.git
+
 Instale as dependências: 
 flutter pub get
+
 Execute o aplicativo: flutter run
 
 ---
